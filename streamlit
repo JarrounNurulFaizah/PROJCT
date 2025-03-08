@@ -1,0 +1,5 @@
+/my-streamlit-app
+├── app.py              # File utama Streamlit
+├── requirements.txt    # Berisi daftar library
+├── data/               # (Opsional) Folder data
+├── images/             # (Opsional) Folder gambar
